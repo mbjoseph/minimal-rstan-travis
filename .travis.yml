@@ -1,10 +1,4 @@
 language: r
-sudo: false
-
-env:
-  global:
-    - MAKEFLAGS="-j 2"
-
 
 matrix:
   include:
